@@ -1,5 +1,5 @@
 HTMLWidgets.widget({
-  name : 'shinyRoughJS',
+  name : 'shinyRoughJSbasic',
   type : 'output',
 
   factory : function(el, width, height) {
